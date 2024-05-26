@@ -253,3 +253,4 @@ __interrupt void Port_2(void){
                 P2IFG &= ~LIMIT_SWITCH_PIN2;
             }
 }
+
